@@ -25,7 +25,5 @@ Here are some ideas to get you started:
 
 <!-- YT LIST START -->
 
-
-[<img src="https://github.com/Sidibedev/Sidibedev/blob/master/assets/video1.png" align="left" width="200" />](https://youtu.be/XX0KX-4Q7es)
 **[Shifting Left](https://youtu.be/XX0KX-4Q7es)**
 <br /> More security, earlier in the software development lifecycle.
