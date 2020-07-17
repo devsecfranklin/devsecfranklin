@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <br />
 
-💻 I am passionnate a computer scientist. <br />
-💡 I love learning new technologies and sharing the most i can. <br />
-😍 Lately I am creating infra as code and security related code and automation projects. <br />
+💻  I am a computer scientist. <br />
+💡  I love learning new technologies and sharing the most i can. <br />
+😍  Lately I am creating infra as code and security related code and automation projects. <br />
 
 #### ▶️ Latest videos
 
