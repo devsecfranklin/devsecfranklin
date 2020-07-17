@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 💡  I love learning new technologies and sharing the most i can. <br />
 😍  Lately I am creating infra as code and security related code and automation projects. <br />
 
-#### ▶️ Latest videos
+####  ▶️ Latest videos
 
 <!-- YT LIST START -->
 
