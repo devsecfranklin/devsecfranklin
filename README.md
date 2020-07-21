@@ -26,4 +26,7 @@ Here are some ideas to get you started:
 <!-- YT LIST START -->
 
 **[Shifting Left](https://youtu.be/XX0KX-4Q7es)**
-<br /> More security, earlier in the software development lifecycle.
+<br />More security, earlier in the software development lifecycle.
+
+**[Hack the Universe](https://www.youtube.com/watch?v=pacUKJybyEI)**
+<br />Radio Astronomy as a fun hobby.
