@@ -29,4 +29,8 @@ Here is the latest video I made:
 <iframe width="600" height="340" src="https://www.youtube.com/embed?max-results=1&controls=0&showinfo=0&rel=0&listType=user_uploads&list=frank378" frameborder="0" allowfullscreen>
 </iframe>
 
-####  ▶️ My Bio
+####  ▶️ My PGP/GPG Key
+
+Here is a [link to my public key](https://pgp.mit.edu/pks/lookup?search=franklin%40bitsmasher.net&op=index) in case you would like to send me an e-mail.
+
+I stored [a copy on GitHub](https://github.com/thedevilsvoice/thedevilsvoice/blob/main/franklin_public_key.txt) as well.
