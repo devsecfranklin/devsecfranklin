@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <br />
 
 💻  I am a Principal Engineer [at Palo Alto Networks](https://www.paloaltonetworks.com/services/consulting/servicedescriptions) where I work on the Professional Services team with a focus on security automation and infratructure as code for the Public Cloud. <br />
+📙 [Check out the book Im writing](https://github.com/thedevilsvoice/devsecops_tactical_book) about DevSecOps.
 
 <img src="https://github-readme-stats.vercel.app/api?username=thedevilsvoice&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
