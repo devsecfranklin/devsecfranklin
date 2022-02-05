@@ -17,14 +17,9 @@ Here are some ideas to get you started:
 
 <br />
 
-💻  I am a Principal Engineer [at Palo Alto Networks](https://www.paloaltonetworks.com/services/consulting/servicedescriptions) where I work on the Professional Services team with a focus on security automation and infratructure as code for the Public Cloud. <br />
 📙 [Check out the book Im writing](https://github.com/devsecfranklin/devsecops-tactical-workbook) about DevSecOps.
 
 <img src="https://github-readme-stats.vercel.app/api?username=devsecfranklin&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
-
-####  ▶️ Latest videos
-
-My [you tube channel](https://www.youtube.com/channel/UCjo9S3Q_Ml22hZyr5CtiM3A) has videos of me doing things with, and to, computers. 
 
 ####  ▶️ My PGP/GPG Key
 
