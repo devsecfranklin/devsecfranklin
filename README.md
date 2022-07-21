@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <br />
 
-📙 [Check out the book Im writing](https://github.com/devsecfranklin/devsecops-tactical-workbook) about DevSecOps.
-
 <img src="https://github-readme-stats.vercel.app/api?username=devsecfranklin&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
 ####  ▶️ My PGP/GPG Key
