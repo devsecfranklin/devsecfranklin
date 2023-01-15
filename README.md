@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=devsecfranklin&show_icons=true&count_private=true&theme=cobalt">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsecfranklin)](https://github.com/devsecfranklin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsecfranklin&count_private=true&theme=cobalt)](https://github.com/devsecfranklin/github-readme-stats)
 
 
 ####  ▶️ My PGP/GPG Key
