@@ -1,7 +1,7 @@
 ### Hi there, I'm [Franklin](https://franklin-resume.herokuapp.com/) 👋 🤓
 
 <!--
-**thedevilsvoice/thedevilsvoice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**devsecfranklin/devsecfranklin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=devsecfranklin&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
+<img src="https://github-readme-stats.vercel.app/api?username=devsecfranklin&show_icons=true&count_private=true&theme=cobalt">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsecfranklin)](https://github.com/devsecfranklin/github-readme-stats)
+
 
 ####  ▶️ My PGP/GPG Key
 
