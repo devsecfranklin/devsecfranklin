@@ -1,6 +1,7 @@
 ### Hi there, I'm [Franklin](https://franklin-resume.herokuapp.com/) 👋 🤓
 
 [![](https://img.shields.io/badge/-@thedevilsvoice-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/thedevilsvoice)
+[![](https://img.shields.io/badge/@devsecfranklin@defcon.social-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://defcon.social/@devsecfranklin)
 [![](https://img.shields.io/badge/-@devsecfranklin-%23181717?style=for-the-badge&logo=github)](https://github.com/devsecfranklin)
 [![](https://img.shields.io/badge/-@thedevilsvoice-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thedevilsvoice/)
 
