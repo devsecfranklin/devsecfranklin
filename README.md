@@ -1,20 +1,53 @@
-### Hi there, I'm [Franklin](https://franklin-resume.herokuapp.com/) 👋 🤓
+# 👋 Franklin D. | devsecfranklin
 
-[![](https://img.shields.io/badge/-@thedevilsvoice-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/thedevilsvoice)
-[![](https://img.shields.io/badge/@devsecfranklin@defcon.social-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://defcon.social/@thedevilsvoice)
-[![](https://img.shields.io/badge/-@devsecfranklin-%23181717?style=for-the-badge&logo=github)](https://github.com/devsecfranklin)
-[![](https://img.shields.io/badge/-@thedevilsvoice-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thedevilsvoice/)
+### 🚀 DevSecOps Engineer | Cloud Security Specialist
 
-<br />
+Currently focused on **Application Security (AppSec)** and **Cloud Security** in my professional role, I am a passionate developer and security researcher who enjoys contributing to open-source projects, particularly in the realm of **Red Team tools** and **DevSecOps automation**.
 
-<img src="https://github-readme-stats.vercel.app/api?username=devsecfranklin&show_icons=true&count_private=true&theme=cobalt">
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsecfranklin&count_private=true&theme=cobalt)](https://github.com/devsecfranklin/github-readme-stats)
+## 👨‍🏫 Academic & Mentorship
 
+I believe in giving back to the community and fostering the next generation of security professionals.
 
-####  ▶️ My PGP/GPG Key
+* **University of Colorado Denver (UC Denver)**
+    * **Adjunct Instructor, Information Systems (ISMG)**
+    * Teaching **ISMG 2050: Introduction to Business Information Systems** during the **Fall 2025** and **Spring 2026** semesters.
+    * *Focus:* Guiding students through fundamental concepts of IT infrastructure, data management, and the role of information systems in modern business and technology, providing a strong foundation for future security specialization.
 
-Here is a [link to my public key](https://pgp.mit.edu/pks/lookup?search=franklin%40bitsmasher.net&op=index) in case you would like to send me an e-mail.
+---
 
-I stored [a copy on GitHub](https://github.com/devsecfranklin/devsecfranklin/blob/main/franklin_public_key.txt) as well.
+## 🛠️ Key Expertise & Interests
 
+* **Cloud Security:** AWS, Azure, GCP architecture security.
+* **DevSecOps:** Integrating security controls across the CI/CD pipeline.
+* **Container/Kubernetes Security:** Penetration testing, hardening, and compliance.
+* **Red Teaming & Hacking Tools:** Development and contribution to open-source security utilities (e.g., Peirates).
+* **Automation:** Shell scripting and Python for security operations.
+
+---
+
+## 🔥 Pinned Highlights
+
+* ### [inguardians/peirates](https://github.com/inguardians/peirates)
+    * Significant contributor to this Kubernetes penetration testing tool, focusing on features like **cloud provider detection** and **K8S deployment functions**.
+* ### [crash_and_compile_dc30](https://github.com/devsecfranklin/crash_and_compile_dc30)
+    * An archive of code/projects related to **Def Con 30 (DC30)**, demonstrating hands-on security challenge experience.
+* ### [1337-Noms-The-Hacker-Cookbook](https://github.com/pale-shadow/1337-Noms-The-Hacker-Cookbook)
+    * A fun, collaborative project combining the worlds of **hacking and cooking**.
+* ### [franklin-resume](https://github.com/devsecfranklin/franklin-resume)
+    * My professional resume, outlining my career trajectory and accomplishments in **DevSecOps** and **Cloud**.
+
+---
+
+## ☁️ Professional Background
+
+> Currently contributing to next-generation security solutions at **Palo Alto Networks**.
+
+I believe in the power of open source to elevate security practices for everyone. Feel free to connect and collaborate!
+
+<br>
+<p align="center">
+  <a href="https://twitter.com/thedevilsvoice"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://bsky.social/profile/thedevilsvoice.bsky.social"><img src="https://img.shields.io/badge/Bluesky-1C9BF0?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
+</p>
