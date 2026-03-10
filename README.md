@@ -34,6 +34,8 @@ I believe in giving back to the community and fostering the next generation of s
     * In this project we consider the issue of a "dirty" local development environment, and precisely what to do about it.
 * ### [crash_and_compile_dc30](https://github.com/devsecfranklin/crash_and_compile_dc30)
     * An archive of code/projects related to **Def Con 30 (DC30)**, demonstrating hands-on security challenge experience.
+* ### [eternal torment](https://github.com/pale-shadow/eternal-torment)
+    * An exercise in frustration and misery.
 
 ---
 
