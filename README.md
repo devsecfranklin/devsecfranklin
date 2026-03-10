@@ -30,14 +30,10 @@ I believe in giving back to the community and fostering the next generation of s
 
 ## 🔥 Pinned Highlights
 
-* ### [inguardians/peirates](https://github.com/inguardians/peirates)
-    * Significant contributor to this Kubernetes penetration testing tool, focusing on features like **cloud provider detection** and **K8S deployment functions**.
 * ### [stash-house](https://github.com/devsecfranklin/stash-house)
-    * A project focused on **Adversary Tactics and Techniques (TTPs)**, exploring methods for **Cyber Threat Intelligence (CTI)** research and analysis.
+    * In this project we consider the issue of a "dirty" local development environment, and precisely what to do about it.
 * ### [crash_and_compile_dc30](https://github.com/devsecfranklin/crash_and_compile_dc30)
     * An archive of code/projects related to **Def Con 30 (DC30)**, demonstrating hands-on security challenge experience.
-* ### [franklin-resume](https://github.com/devsecfranklin/franklin-resume)
-    * My professional resume, outlining my career trajectory and accomplishments in **DevSecOps** and **Cloud**.
 
 ---
 
